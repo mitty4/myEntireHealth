@@ -5,9 +5,9 @@
 ### What's in the Design?
 - - - - 
 - DRY methodology (don't repeat yourself) 
-- components built with development in mind
+- Components built with development in mind
 - Thorough iterations
-- optimized user experience
+- Optimized user experience
 - Details and organization
 
 <br>
